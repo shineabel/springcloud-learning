@@ -1,0 +1,42 @@
+2021-09-09 16:55:57,810 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.66.1:8091:unknown:default_1.0_true_false_default]
+
+2021-09-09 16:55:57,830 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.66.1:8091_true,
+
+2021-09-09 16:57:17,895 INFO {POS} {IP-DISABLED} valid: 192.168.66.1:8091@default@DEFAULT_GROUP@@serverAddr, region: unknown, msg: client timeout after 15000, last beat: 1631177822767
+
+2021-09-09 16:57:22,982 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.66.1:8091_false,
+
+2021-09-09 16:57:27,898 INFO service: DEFAULT_GROUP@@serverAddr {POS} {IP-ENABLED} valid: 192.168.66.1:8091@default, region: unknown, msg: client beat ok
+
+2021-09-09 17:17:55,732 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.66.1:8180:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-09 17:17:55,732 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.66.1:8180_true,
+
+2021-09-09 17:17:55,737 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.66.1:8180_true,
+
+2021-09-09 17:18:45,900 INFO DEFAULT_GROUP@@seata-storage-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.66.1:8181:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-09 17:18:45,900 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-storage-service, ips: 192.168.66.1:8181_true,
+
+2021-09-09 17:18:45,907 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-storage-service, ips: 192.168.66.1:8181_true,
+
+2021-09-09 17:19:13,859 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.66.1:8182:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-09 17:19:13,859 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.66.1:8182_true,
+
+2021-09-09 17:19:13,864 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.66.1:8182_true,
+
+2021-09-09 17:31:13,519 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.66.1:8091_true,
+
+2021-09-09 18:04:27,815 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.66.1:8091_true,
+
+2021-09-09 18:05:40,917 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.66.1:8091_true,
+
+2021-09-09 18:09:29,126 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.66.1:8091_true,
+
+2021-09-09 18:11:40,049 INFO {POS} {IP-DISABLED} valid: 192.168.66.1:8091@default@DEFAULT_GROUP@@serverAddr, region: unknown, msg: client timeout after 15000, last beat: 1631182284277
+
+2021-09-09 18:11:40,595 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.66.1:8091_false,
+
+2021-09-09 18:11:45,521 INFO service: DEFAULT_GROUP@@serverAddr {POS} {IP-ENABLED} valid: 192.168.66.1:8091@default, region: unknown, msg: client beat ok
+
